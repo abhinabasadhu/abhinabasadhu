@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhinabasadhu
 - 👀 I’m interested in full Stack development
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning GCP
 - 💞️ I’m looking to collaborate on Mern Stack Development
 - 📫 How to reach me abhinabasadhu@gmail.com
 <!---
